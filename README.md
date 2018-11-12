@@ -1,6 +1,16 @@
 # CantinaChallenge
 
-Download or clone and all you have to do is cd into the project and then run npm start in your terminal!
+This is my version of the challenge in react native using expo instead of terminal.
 
-Assuming that you have npm / node / yarn installed.
+If you do not have expo installed go ahead and run npm install -g expo-cli
+
+Assuming that you have npm / node / yarn installed, download or clone and all you have to do is cd into the project and then run npm start in your terminal!
+
+If you are having issues, https://matwrites.com/get-started-react-native-expo-minutes/ is a great tutorial, or you can just message me :)
+
+Once the expo screen pops up locally on a browser, click on the run ios simulator on the GUI. 
+
+That will bring you right to my app where you can then type into the search field, and then there will be instructions on the page.
+
+
 
